@@ -1,0 +1,12 @@
+@font-face {
+  font-family: 'WorkSans-Regular';
+  font-weight: 400;
+  font-style: normal;
+  src: url("../fonts/WorkSans-Regular.woff2") format("woff2"), "../fonts/WorkSans-Regular.woff" format("woff");
+}
+@font-face {
+  font-family: 'WorkSans-SemiBold';
+  font-weight: 600;
+  font-style: normal;
+  src: url("../fonts/WorkSans-SemiBold.woff2") format("woff2"), "../fonts/WorkSans-SemiBold.woff" format("woff");
+}
